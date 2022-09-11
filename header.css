@@ -1,0 +1,39 @@
+.head img{
+    position: fixed;
+    width: 70px;
+    left: 10px;
+}
+.header{
+    position: fixed;
+    top: 0%;
+    height: 30px;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    background-color:black;
+    justify-content: space-between;
+}
+.sec img {
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}
+
+.list ul li a{
+    text-align: right;
+    color: white;
+    text-decoration: none   ;
+   
+    
+    
+}
+.list {
+   text-align: right;
+   padding-right: 750px;
+}
+.list ul li{
+ list-style: none;
+ display: inline-block;
+ margin: 0px 22px;
+ padding-top: 7px;
+}

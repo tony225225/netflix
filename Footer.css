@@ -1,0 +1,20 @@
+.footer{
+    
+    color: #fff;
+    background-color: #111;
+
+}
+.ls{
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    
+}
+.ls::-webkit-scrollbar{
+    display: none;
+}
+.ls img{
+    max-height:200px ;
+    margin-right: 5px;
+}
